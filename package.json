@@ -1,0 +1,20 @@
+{
+    "name": "ecommerce-recomendations-with-ml",
+    "version": "1.0.0",
+    "description": "An e-commerce recommendation system with TensorFlow.js",
+    "scripts": {
+        "start": "browser-sync -w . --server --files 'index.html, data/*.json, js/*.js' --port 3000",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecommerce",
+        "tensorflow",
+        "recommendation",
+        "javascript"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^3.0.4"
+    }
+}

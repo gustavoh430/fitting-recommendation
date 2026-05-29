@@ -1,0 +1,2908 @@
+[
+  {
+    "id": "991571",
+    "name": "Emily",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 5
+      },
+      {
+        "id": "222123",
+        "name": "222123",
+        "category": "dresses",
+        "size": 8,
+        "quality": 5
+      },
+      {
+        "id": "268252",
+        "name": "268252",
+        "category": "sale",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": "29",
+    "hips": "38",
+    "bra_size": "34"
+  },
+  {
+    "id": "587883",
+    "name": "sydneybraden2001",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 13,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": "31",
+    "hips": "30",
+    "bra_size": "36"
+  },
+  {
+    "id": "395665",
+    "name": "Ugggh",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": "30",
+    "hips": null,
+    "bra_size": "32"
+  },
+  {
+    "id": "875643",
+    "name": "alexmeyer626",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 21,
+        "quality": 5
+      }
+    ],
+    "height": null,
+    "waist": null,
+    "hips": null,
+    "bra_size": null
+  },
+  {
+    "id": "944840",
+    "name": "dberrones1",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "746394",
+        "name": "746394",
+        "category": "bottoms",
+        "size": 15,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "162012",
+    "name": "Doreenajane",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 5
+      },
+      {
+        "id": "312792",
+        "name": "312792",
+        "category": "dresses",
+        "size": 12,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": "27",
+    "hips": "41",
+    "bra_size": "36"
+  },
+  {
+    "id": "114843",
+    "name": "barbiejenks",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 5,
+        "quality": 1
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": "26",
+    "hips": null,
+    "bra_size": "32"
+  },
+  {
+    "id": "58869",
+    "name": "brettloie",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "42.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "279568",
+    "name": "francescaviola",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 30,
+        "quality": 4
+      },
+      {
+        "id": "139123",
+        "name": "139123",
+        "category": "new",
+        "size": 30,
+        "quality": 4
+      },
+      {
+        "id": "161592",
+        "name": "161592",
+        "category": "dresses",
+        "size": 33,
+        "quality": 4
+      },
+      {
+        "id": "397642",
+        "name": "397642",
+        "category": "dresses",
+        "size": 33,
+        "quality": 4
+      },
+      {
+        "id": "486643",
+        "name": "486643",
+        "category": "tops",
+        "size": 32,
+        "quality": 4
+      },
+      {
+        "id": "539980",
+        "name": "539980",
+        "category": "tops",
+        "size": 32,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 10in",
+    "waist": null,
+    "hips": "50.0",
+    "bra_size": "42"
+  },
+  {
+    "id": "950172",
+    "name": "laurenpolzin",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 13,
+        "quality": 5
+      },
+      {
+        "id": "474002",
+        "name": "474002",
+        "category": "tops",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "645822",
+        "name": "645822",
+        "category": "tops",
+        "size": 12,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "41.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "205796",
+    "name": "micorson",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 24,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "49.0",
+    "bra_size": "40"
+  },
+  {
+    "id": "422613",
+    "name": "tera.oh",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 33,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "60.0",
+    "bra_size": "44"
+  },
+  {
+    "id": "42840",
+    "name": "kmj11492",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 5,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "767255",
+    "name": "katherineoliviaman",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "510154",
+    "name": "stacy233",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 3,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "36.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "780339",
+    "name": "tamera.cole",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 27,
+        "quality": 4
+      },
+      {
+        "id": "126560",
+        "name": "126560",
+        "category": "new",
+        "size": 26,
+        "quality": 5
+      },
+      {
+        "id": "131951",
+        "name": "131951",
+        "category": "new",
+        "size": 20,
+        "quality": 5
+      },
+      {
+        "id": "146231",
+        "name": "146231",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "151045",
+        "name": "151045",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      },
+      {
+        "id": "163185",
+        "name": "163185",
+        "category": "dresses",
+        "size": 26,
+        "quality": 4
+      },
+      {
+        "id": "210299",
+        "name": "210299",
+        "category": "dresses",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "645822",
+        "name": "645822",
+        "category": "tops",
+        "size": 26,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "50.0",
+    "bra_size": "40"
+  },
+  {
+    "id": "936337",
+    "name": "choircorgis",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "139123",
+        "name": "139123",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "175771",
+        "name": "175771",
+        "category": "dresses",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "521470",
+        "name": "521470",
+        "category": "tops",
+        "size": 15,
+        "quality": 5
+      },
+      {
+        "id": "656172",
+        "name": "656172",
+        "category": "bottoms",
+        "size": 20,
+        "quality": 5
+      },
+      {
+        "id": "699784",
+        "name": "699784",
+        "category": "bottoms",
+        "size": 20,
+        "quality": 5
+      },
+      {
+        "id": "715662",
+        "name": "715662",
+        "category": "bottoms",
+        "size": 26,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": "44.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "128353",
+    "name": "Megan",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      }
+    ],
+    "height": null,
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "21605",
+    "name": "Carol",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 8in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "328698",
+    "name": "kate",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 9,
+        "quality": 1
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "42046",
+    "name": "aunibe7",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "799325",
+        "name": "799325",
+        "category": "outerwear",
+        "size": 15,
+        "quality": 5
+      }
+    ],
+    "height": "5ft",
+    "waist": null,
+    "hips": "38.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "4905",
+    "name": "dputvin",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 5,
+        "quality": 5
+      },
+      {
+        "id": "641880",
+        "name": "641880",
+        "category": "tops",
+        "size": 4,
+        "quality": 5
+      },
+      {
+        "id": "781127",
+        "name": "781127",
+        "category": "outerwear",
+        "size": 4,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "133370",
+    "name": "allison.leahy",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": "34.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "990166",
+    "name": "Michelle",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 5,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": "32.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "966536",
+    "name": "mandamay89",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 4
+      },
+      {
+        "id": "478481",
+        "name": "478481",
+        "category": "tops",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "507565",
+        "name": "507565",
+        "category": "tops",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "655211",
+        "name": "655211",
+        "category": "bottoms",
+        "size": 20,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "595658",
+    "name": "crazyxme05",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 3,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "585033",
+    "name": "lzamorarn",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 30,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "46"
+  },
+  {
+    "id": "129669",
+    "name": "mmmjulie",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 9,
+        "quality": 5
+      },
+      {
+        "id": "391519",
+        "name": "391519",
+        "category": "dresses",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "414857",
+        "name": "414857",
+        "category": "new",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "515644",
+        "name": "515644",
+        "category": "tops",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "657081",
+        "name": "657081",
+        "category": "new",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "658440",
+        "name": "658440",
+        "category": "new",
+        "size": 10,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "884093",
+    "name": "danielle",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 30,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "48.0",
+    "bra_size": "44"
+  },
+  {
+    "id": "78371",
+    "name": "Stephanie",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 30,
+        "quality": 4
+      },
+      {
+        "id": "162470",
+        "name": "162470",
+        "category": "dresses",
+        "size": 32,
+        "quality": 3
+      },
+      {
+        "id": "649751",
+        "name": "649751",
+        "category": "tops",
+        "size": 32,
+        "quality": 3
+      },
+      {
+        "id": "712030",
+        "name": "712030",
+        "category": "sale",
+        "size": 32,
+        "quality": 2
+      },
+      {
+        "id": "715662",
+        "name": "715662",
+        "category": "bottoms",
+        "size": 32,
+        "quality": 3
+      },
+      {
+        "id": "789999",
+        "name": "789999",
+        "category": "sale",
+        "size": 32,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": "52.0",
+    "bra_size": "42"
+  },
+  {
+    "id": "567646",
+    "name": "mcerlean.elizabeth",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 9,
+        "quality": 4
+      },
+      {
+        "id": "414857",
+        "name": "414857",
+        "category": "new",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "667899",
+        "name": "667899",
+        "category": "bottoms",
+        "size": 12,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "670444",
+    "name": "Jennifer",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 5
+      },
+      {
+        "id": "152702",
+        "name": "152702",
+        "category": "new",
+        "size": 12,
+        "quality": 5
+      },
+      {
+        "id": "416738",
+        "name": "416738",
+        "category": "new",
+        "size": 8,
+        "quality": 5
+      },
+      {
+        "id": "792875",
+        "name": "792875",
+        "category": "outerwear",
+        "size": 12,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 8in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "803111",
+    "name": "evampitzel",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 2
+      },
+      {
+        "id": "409228",
+        "name": "409228",
+        "category": "sale",
+        "size": 12,
+        "quality": 5
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 8,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "774787",
+    "name": "Porsche",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 30,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "269613",
+    "name": "jamiellight",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 21,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "40"
+  },
+  {
+    "id": "753137",
+    "name": "miaisaiah2",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "634656",
+    "name": "Angela",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "659083",
+        "name": "659083",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "483513",
+    "name": "schun55",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "515644",
+        "name": "515644",
+        "category": "tops",
+        "size": 26,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "46.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "38725",
+    "name": "jacmarieee",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 5,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "18273",
+    "name": "avelez121",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 5
+      },
+      {
+        "id": "222923",
+        "name": "222923",
+        "category": "dresses",
+        "size": 15,
+        "quality": 5
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 12,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "889569",
+    "name": "Michelle",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "44.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "12529",
+    "name": "marandabarnes",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 9,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "30"
+  },
+  {
+    "id": "861668",
+    "name": "ashley.willsey",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "42.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "670919",
+    "name": "sdhewey",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 5
+      }
+    ],
+    "height": null,
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "960040",
+    "name": "resuscitation",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 3,
+        "quality": 5
+      },
+      {
+        "id": "367240",
+        "name": "367240",
+        "category": "sale",
+        "size": 5,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "36.0",
+    "bra_size": "32"
+  },
+  {
+    "id": "931858",
+    "name": "riehl.lilith",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 11in",
+    "waist": null,
+    "hips": "30.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "162570",
+    "name": "meredith",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 4
+      },
+      {
+        "id": "371983",
+        "name": "371983",
+        "category": "sale",
+        "size": 12,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "966735",
+    "name": "pocosin",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "942434",
+    "name": "award",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 7,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "32"
+  },
+  {
+    "id": "117413",
+    "name": "Janine",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 11,
+        "quality": 5
+      },
+      {
+        "id": "175771",
+        "name": "175771",
+        "category": "dresses",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": "37.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "756055",
+    "name": "hoodek",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 21,
+        "quality": 5
+      },
+      {
+        "id": "165525",
+        "name": "165525",
+        "category": "dresses",
+        "size": 20,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "50.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "27410",
+    "name": "ljjefferson330",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "397005",
+        "name": "397005",
+        "category": "dresses",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "647551",
+        "name": "647551",
+        "category": "tops",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "656172",
+        "name": "656172",
+        "category": "bottoms",
+        "size": 20,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "572453",
+    "name": "hanley.anne.m",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "123373",
+        "name": "123373",
+        "category": "new",
+        "size": 15,
+        "quality": 5
+      },
+      {
+        "id": "147714",
+        "name": "147714",
+        "category": "new",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "371983",
+        "name": "371983",
+        "category": "sale",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "390319",
+        "name": "390319",
+        "category": "dresses",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "392144",
+        "name": "392144",
+        "category": "sale",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "404229",
+        "name": "404229",
+        "category": "new",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "648310",
+        "name": "648310",
+        "category": "tops",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "756073",
+        "name": "756073",
+        "category": "bottoms",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "757731",
+        "name": "757731",
+        "category": "bottoms",
+        "size": 14,
+        "quality": 2
+      },
+      {
+        "id": "768242",
+        "name": "768242",
+        "category": "bottoms",
+        "size": 15,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "930050",
+    "name": "meghan.fullamclarke",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 9,
+        "quality": 5
+      },
+      {
+        "id": "161592",
+        "name": "161592",
+        "category": "dresses",
+        "size": 9,
+        "quality": 4
+      },
+      {
+        "id": "163661",
+        "name": "163661",
+        "category": "dresses",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "397642",
+        "name": "397642",
+        "category": "dresses",
+        "size": 11,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "771038",
+    "name": "angiels71",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 21,
+        "quality": 5
+      },
+      {
+        "id": "144979",
+        "name": "144979",
+        "category": "new",
+        "size": 21,
+        "quality": 5
+      },
+      {
+        "id": "155256",
+        "name": "155256",
+        "category": "new",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "175771",
+        "name": "175771",
+        "category": "dresses",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "422651",
+        "name": "422651",
+        "category": "tops",
+        "size": 15,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "940182",
+    "name": "Jo",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 5,
+        "quality": 5
+      },
+      {
+        "id": "780724",
+        "name": "780724",
+        "category": "outerwear",
+        "size": 4,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": "32.0",
+    "bra_size": "32"
+  },
+  {
+    "id": "558490",
+    "name": "jczroach",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 11,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "45.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "184197",
+    "name": "Kristina",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 7,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "983189",
+    "name": "amersg16",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 5,
+        "quality": 3
+      },
+      {
+        "id": "152513",
+        "name": "152513",
+        "category": "new",
+        "size": 1,
+        "quality": 3
+      },
+      {
+        "id": "412737",
+        "name": "412737",
+        "category": "new",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "478122",
+        "name": "478122",
+        "category": "tops",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "486643",
+        "name": "486643",
+        "category": "tops",
+        "size": 4,
+        "quality": 1
+      },
+      {
+        "id": "515644",
+        "name": "515644",
+        "category": "tops",
+        "size": 4,
+        "quality": 2
+      },
+      {
+        "id": "633619",
+        "name": "633619",
+        "category": "tops",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 1,
+        "quality": 3
+      },
+      {
+        "id": "723977",
+        "name": "723977",
+        "category": "bottoms",
+        "size": 1,
+        "quality": 4
+      },
+      {
+        "id": "806856",
+        "name": "806856",
+        "category": "outerwear",
+        "size": 4,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "955038",
+    "name": "eve.c.adams",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 7,
+        "quality": 2
+      },
+      {
+        "id": "130424",
+        "name": "130424",
+        "category": "new",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "152702",
+        "name": "152702",
+        "category": "new",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "204815",
+        "name": "204815",
+        "category": "dresses",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "392144",
+        "name": "392144",
+        "category": "sale",
+        "size": 8,
+        "quality": 2
+      },
+      {
+        "id": "407044",
+        "name": "407044",
+        "category": "new",
+        "size": 8,
+        "quality": 2
+      },
+      {
+        "id": "412737",
+        "name": "412737",
+        "category": "new",
+        "size": 8,
+        "quality": 2
+      },
+      {
+        "id": "538258",
+        "name": "538258",
+        "category": "tops",
+        "size": 8,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "32"
+  },
+  {
+    "id": "492592",
+    "name": "rosannabird",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 11,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "277450",
+    "name": "cdpase",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 9,
+        "quality": 5
+      },
+      {
+        "id": "391519",
+        "name": "391519",
+        "category": "dresses",
+        "size": 8,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": null,
+    "bra_size": null
+  },
+  {
+    "id": "281008",
+    "name": "kciavarra",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 9,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "404070",
+    "name": "Alexandra",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 9,
+        "quality": 5
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "42.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "73654",
+    "name": "Kaylee",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 5,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "32"
+  },
+  {
+    "id": "629330",
+    "name": "Colleen",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 9,
+        "quality": 5
+      },
+      {
+        "id": "175771",
+        "name": "175771",
+        "category": "dresses",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "380801",
+        "name": "380801",
+        "category": "dresses",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "792006",
+        "name": "792006",
+        "category": "sale",
+        "size": 12,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": "42.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "600336",
+    "name": "kristin.mcleod",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124024",
+        "name": "124024",
+        "category": "new",
+        "size": 18,
+        "quality": 5
+      },
+      {
+        "id": "298256",
+        "name": "298256",
+        "category": "dresses",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "503595",
+        "name": "503595",
+        "category": "tops",
+        "size": 20,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "44"
+  },
+  {
+    "id": "888519",
+    "name": "rmvangilder",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 2
+      },
+      {
+        "id": "165716",
+        "name": "165716",
+        "category": "dresses",
+        "size": 11,
+        "quality": 3
+      },
+      {
+        "id": "269063",
+        "name": "269063",
+        "category": "dresses",
+        "size": 11,
+        "quality": 5
+      },
+      {
+        "id": "401773",
+        "name": "401773",
+        "category": "new",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "502359",
+        "name": "502359",
+        "category": "tops",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "630114",
+        "name": "630114",
+        "category": "tops",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "645822",
+        "name": "645822",
+        "category": "tops",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "668696",
+        "name": "668696",
+        "category": "bottoms",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "715662",
+        "name": "715662",
+        "category": "bottoms",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "768741",
+        "name": "768741",
+        "category": "bottoms",
+        "size": 15,
+        "quality": 1
+      },
+      {
+        "id": "792006",
+        "name": "792006",
+        "category": "sale",
+        "size": 12,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "557828",
+    "name": "serrentijess",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 3
+      }
+    ],
+    "height": "4ft 11in",
+    "waist": null,
+    "hips": "42.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "862027",
+    "name": "Laura",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "161514",
+        "name": "161514",
+        "category": "dresses",
+        "size": 12,
+        "quality": 4
+      },
+      {
+        "id": "668235",
+        "name": "668235",
+        "category": "bottoms",
+        "size": 12,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 2in",
+    "waist": null,
+    "hips": "41.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "29730",
+    "name": "inevitable.cities",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": null,
+    "bra_size": null
+  },
+  {
+    "id": "887137",
+    "name": "Val",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "497767",
+    "name": "Josephine",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": null,
+    "bra_size": null
+  },
+  {
+    "id": "816504",
+    "name": "Fiorella",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 20,
+        "quality": 4
+      }
+    ],
+    "height": null,
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "11091",
+    "name": "stephanie.m.navarro",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "171579",
+        "name": "171579",
+        "category": "dresses",
+        "size": 12,
+        "quality": 5
+      },
+      {
+        "id": "200824",
+        "name": "200824",
+        "category": "dresses",
+        "size": 12,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "41.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "26915",
+    "name": "emily.j.lenhart",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 4,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "788911",
+    "name": "ryleelsmith86",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      },
+      {
+        "id": "314980",
+        "name": "314980",
+        "category": "dresses",
+        "size": 12,
+        "quality": 3
+      },
+      {
+        "id": "404229",
+        "name": "404229",
+        "category": "new",
+        "size": 15,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 8in",
+    "waist": null,
+    "hips": "48.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "70720",
+    "name": "shelleyerinosborn",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": "45.0",
+    "bra_size": "40"
+  },
+  {
+    "id": "582644",
+    "name": "Ardith",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "126885",
+        "name": "126885",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      },
+      {
+        "id": "404229",
+        "name": "404229",
+        "category": "new",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "517055",
+        "name": "517055",
+        "category": "tops",
+        "size": 20,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "47013",
+    "name": "ashleyjuneprosser",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 8,
+        "quality": 2
+      },
+      {
+        "id": "126885",
+        "name": "126885",
+        "category": "new",
+        "size": 8,
+        "quality": 5
+      },
+      {
+        "id": "412003",
+        "name": "412003",
+        "category": "new",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "415598",
+        "name": "415598",
+        "category": "new",
+        "size": 8,
+        "quality": 4
+      },
+      {
+        "id": "654585",
+        "name": "654585",
+        "category": "bottoms",
+        "size": 4,
+        "quality": 4
+      },
+      {
+        "id": "661775",
+        "name": "661775",
+        "category": "new",
+        "size": 8,
+        "quality": 4
+      },
+      {
+        "id": "765620",
+        "name": "765620",
+        "category": "bottoms",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "33006",
+    "name": "feesome",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 20,
+        "quality": 3
+      },
+      {
+        "id": "210299",
+        "name": "210299",
+        "category": "dresses",
+        "size": 20,
+        "quality": 3
+      },
+      {
+        "id": "416738",
+        "name": "416738",
+        "category": "new",
+        "size": 26,
+        "quality": 5
+      },
+      {
+        "id": "775870",
+        "name": "775870",
+        "category": "new",
+        "size": 26,
+        "quality": 2
+      }
+    ],
+    "height": "4ft 10in",
+    "waist": null,
+    "hips": "35.0",
+    "bra_size": "42"
+  },
+  {
+    "id": "337350",
+    "name": "kelleywygant",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": "55.0",
+    "bra_size": "42"
+  },
+  {
+    "id": "312002",
+    "name": "nh53307",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "167315",
+        "name": "167315",
+        "category": "dresses",
+        "size": 15,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "38.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "55233",
+    "name": "Kristin",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "161514",
+        "name": "161514",
+        "category": "dresses",
+        "size": 8,
+        "quality": 4
+      },
+      {
+        "id": "456078",
+        "name": "456078",
+        "category": "tops",
+        "size": 8,
+        "quality": 3
+      },
+      {
+        "id": "474002",
+        "name": "474002",
+        "category": "tops",
+        "size": 8,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 8in",
+    "waist": null,
+    "hips": "39.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "353791",
+    "name": "knoelwoot",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 3
+      },
+      {
+        "id": "136482",
+        "name": "136482",
+        "category": "new",
+        "size": 15,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "1862",
+    "name": "erindorshorst",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 20,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "38"
+  },
+  {
+    "id": "539110",
+    "name": "amybel",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 8,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "34"
+  },
+  {
+    "id": "367597",
+    "name": "Kristine",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 20,
+        "quality": 5
+      },
+      {
+        "id": "129268",
+        "name": "129268",
+        "category": "new",
+        "size": 20,
+        "quality": 2
+      },
+      {
+        "id": "151045",
+        "name": "151045",
+        "category": "new",
+        "size": 20,
+        "quality": 4
+      },
+      {
+        "id": "660757",
+        "name": "660757",
+        "category": "new",
+        "size": 20,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "40"
+  },
+  {
+    "id": "407556",
+    "name": "kesingletary",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      },
+      {
+        "id": "404557",
+        "name": "404557",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "519836",
+        "name": "519836",
+        "category": "tops",
+        "size": 32,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "44"
+  },
+  {
+    "id": "661409",
+    "name": "jennypiper",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "152513",
+        "name": "152513",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "171125",
+        "name": "171125",
+        "category": "dresses",
+        "size": 26,
+        "quality": 4
+      },
+      {
+        "id": "338596",
+        "name": "338596",
+        "category": "dresses",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "416738",
+        "name": "416738",
+        "category": "new",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "416942",
+        "name": "416942",
+        "category": "new",
+        "size": 32,
+        "quality": 3
+      },
+      {
+        "id": "454764",
+        "name": "454764",
+        "category": "tops",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "478481",
+        "name": "478481",
+        "category": "tops",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "539980",
+        "name": "539980",
+        "category": "tops",
+        "size": 26,
+        "quality": 3
+      },
+      {
+        "id": "693560",
+        "name": "693560",
+        "category": "bottoms",
+        "size": 26,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 10in",
+    "waist": null,
+    "hips": "51.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "174729",
+    "name": "joyusa",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 2
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "36"
+  },
+  {
+    "id": "440777",
+    "name": "laura.podowski",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 15,
+        "quality": 5
+      },
+      {
+        "id": "136482",
+        "name": "136482",
+        "category": "new",
+        "size": 15,
+        "quality": 5
+      }
+    ],
+    "height": "5ft 1in",
+    "waist": null,
+    "hips": "46.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "799157",
+    "name": "monya.e.wolf",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 1
+      },
+      {
+        "id": "517055",
+        "name": "517055",
+        "category": "tops",
+        "size": 8,
+        "quality": 4
+      },
+      {
+        "id": "806479",
+        "name": "806479",
+        "category": "outerwear",
+        "size": 12,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "45.0",
+    "bra_size": "36"
+  },
+  {
+    "id": "125976",
+    "name": "mckenna2010",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 2
+      },
+      {
+        "id": "474002",
+        "name": "474002",
+        "category": "tops",
+        "size": 8,
+        "quality": 4
+      },
+      {
+        "id": "633619",
+        "name": "633619",
+        "category": "tops",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "36.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "360323",
+    "name": "ktabrooks",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 32,
+        "quality": 4
+      },
+      {
+        "id": "147714",
+        "name": "147714",
+        "category": "new",
+        "size": 32,
+        "quality": 4
+      },
+      {
+        "id": "152513",
+        "name": "152513",
+        "category": "new",
+        "size": 32,
+        "quality": 4
+      },
+      {
+        "id": "171125",
+        "name": "171125",
+        "category": "dresses",
+        "size": 32,
+        "quality": 4
+      },
+      {
+        "id": "298256",
+        "name": "298256",
+        "category": "dresses",
+        "size": 38,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 9in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "44"
+  },
+  {
+    "id": "174801",
+    "name": "erin.smith1988",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 26,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 5in",
+    "waist": null,
+    "hips": null,
+    "bra_size": "40"
+  },
+  {
+    "id": "635354",
+    "name": "red_head316",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 3in",
+    "waist": null,
+    "hips": "40.0",
+    "bra_size": "38"
+  },
+  {
+    "id": "307469",
+    "name": "gabpollock",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 4,
+        "quality": 2
+      },
+      {
+        "id": "151160",
+        "name": "151160",
+        "category": "new",
+        "size": 7,
+        "quality": 3
+      },
+      {
+        "id": "398317",
+        "name": "398317",
+        "category": "sale",
+        "size": 4,
+        "quality": 3
+      },
+      {
+        "id": "447819",
+        "name": "447819",
+        "category": "tops",
+        "size": 4,
+        "quality": 3
+      }
+    ],
+    "height": "5ft 4in",
+    "waist": null,
+    "hips": "41.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "485671",
+    "name": "Emily",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 8,
+        "quality": 4
+      }
+    ],
+    "height": "5ft 6in",
+    "waist": null,
+    "hips": "38.0",
+    "bra_size": "34"
+  },
+  {
+    "id": "435872",
+    "name": "christine.koch",
+    "age": 30,
+    "purchases": [
+      {
+        "id": "124124",
+        "name": "124124",
+        "category": "new",
+        "size": 12,
+        "quality": 1
+      }
+    ],
+    "height": "5ft 7in",
+    "waist": null,
+    "hips": null,
+    "bra_size": null
+  }
+]
