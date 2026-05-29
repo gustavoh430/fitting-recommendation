@@ -13,7 +13,15 @@ Os objetivos principais são:
 * **Aumentar a conversão** ao diminuir a dúvida na hora da compra.
 * **Personalizar a vitrine** com base nas características reais de cada cliente.
 
-## 3. Ferramentas e Tecnologias Utilizadas
+## 3. Demonstração Visual
+
+As imagens abaixo mostram o sistema em funcionamento no navegador: a tela inicial com o treino do modelo em andamento e a tela após selecionar um usuário, exibindo biometria e histórico de compras.
+
+![Tela inicial do sistema](assets/screenshots/01-inicial.png)
+
+![Usuário selecionado e dados carregados](assets/screenshots/02-usuario-selecionado.png)
+
+## 4. Ferramentas e Tecnologias Utilizadas
 
 ### Front-end
 * **HTML, CSS e JavaScript puro** para a interface principal.
@@ -36,40 +44,40 @@ Os objetivos principais são:
 * **Browser-sync** para rodar o projeto localmente com recarregamento automático.
 * **Node.js** para scripts de apoio, organização de dados e testes de integração.
 
-## 4. Como o Modelamento Foi Construído
+## 5. Como o Modelamento Foi Construído
 O modelamento foi feito com uma lógica prática de recomendação orientada ao caimento da peça.
 
-### 4.1 Base de entrada
+### 5.1 Base de entrada
 O sistema trabalha com duas fontes principais:
 * **Dados dos clientes**: medidas corporais e histórico de compras.
 * **Dados dos produtos**: categoria e assinatura construída a partir de quem comprou cada item.
 
-### 4.2 Representação dos dados
+### 5.2 Representação dos dados
 Cada cliente é convertido em um vetor numérico com suas medidas principais. Cada produto também vira um vetor, mas baseado na média corporal dos usuários que compraram aquele item.
 
-### 4.3 Método usado
+### 5.3 Método usado
 O processo combina três ideias:
 1. **Normalização** das medidas para padronizar os valores.
 2. **Codificação por atributos** para transformar usuário e produto em entrada de rede neural.
 3. **Treinamento supervisionado balanceado** com exemplos positivos e negativos.
 
-### 4.4 Balanceamento
+### 5.4 Balanceamento
 Como há muito mais itens não comprados do que comprados, o treino foi ajustado com uma razão controlada entre exemplos positivos e negativos. Isso melhora a leitura do modelo e evita uma saída enviesada demais para zero.
 
-### 4.5 Camadas de treino
+### 5.5 Camadas de treino
 O modelo foi treinado com uma rede neural simples e eficiente, adequada para o tipo de problema:
 * entrada com dados do usuário + dados do produto;
 * camadas ocultas para aprender padrões;
 * saída probabilística para indicar compatibilidade.
 
-## 5. Regras de Negócio Implementadas
+## 6. Regras de Negócio Implementadas
 
 * **Biometria é prioridade**: altura, cintura, quadril, busto e idade têm peso no cálculo.
 * **Categoria também influencia**: o gosto do cliente por uma categoria de produto entra na conta.
 * **O produto não é fixo por tamanho bruto**: ele recebe uma “assinatura” baseada no perfil de quem comprou antes.
 * **O resultado é uma probabilidade**: o sistema não diz apenas sim ou não, mas o quanto a peça faz sentido para aquela pessoa.
 
-## 6. Exemplo Prático: Lauren Polzin e o Item #659083
+## 7. Exemplo Prático: Lauren Polzin e o Item #659083
 No caso da usuária Lauren Polzin, o sistema retornou uma chance intermediária para o item #659083 porque houve equilíbrio entre compatibilidade de estilo e divergência de medidas.
 
 O modelo observou que:
@@ -79,10 +87,10 @@ O modelo observou que:
 
 Na prática, isso gera uma recomendação cautelosa: a peça pode agradar visualmente, mas o caimento não é tão garantido quanto em um perfil corporal mais próximo do histórico do produto.
 
-## 7. Resultado Esperado
+## 8. Resultado Esperado
 O sistema busca entregar recomendações mais inteligentes do que uma simples lista de produtos populares. A proposta é aproximar a experiência digital da sensação de um provador assistido por um vendedor atento.
 
-## 8. Melhorias Futuras
+## 9. Melhorias Futuras
 Alguns próximos passos possíveis para evoluir o projeto:
 
 1. **Incluir elasticidade do tecido** para diferenciar peças flexíveis de peças rígidas.
@@ -91,7 +99,7 @@ Alguns próximos passos possíveis para evoluir o projeto:
 4. **Criar métricas de validação** para acompanhar acerto, cobertura e taxa de conversão.
 5. **Expandir a base de treino** com mais usuários, mais produtos e mais histórico.
 
-## 9. Conclusão
+## 10. Conclusão
 Este projeto mostra como a combinação de dados de clientes, perfil de produtos e aprendizado de máquina pode criar uma experiência de compra mais confiável. O sistema não substitui a decisão humana, mas ajuda a reduzir dúvida, melhorar a assertividade e aumentar a confiança na compra online.
 
 Em resumo, o provador virtual transforma dados em recomendação útil, simples de entender e com foco direto no que importa para o cliente: escolher melhor antes de comprar.
