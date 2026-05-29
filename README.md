@@ -19,7 +19,9 @@ As imagens abaixo mostram o sistema em funcionamento no navegador: a tela inicia
 
 ![Tela inicial do sistema](assets/screenshots/01-inicial.png)
 
-![Usuário selecionado e dados carregados](assets/screenshots/02-usuario-selecionado.png)
+<img width="2162" height="1378" alt="image" src="https://github.com/user-attachments/assets/2e282f1b-69f7-4b0e-ba00-d73a0170cbac" />
+
+
 
 ## 4. Ferramentas e Tecnologias Utilizadas
 
